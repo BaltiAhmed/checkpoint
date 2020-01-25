@@ -1,0 +1,33 @@
+.title {
+    color: black;
+    text-align: center;
+  }
+
+ 
+
+  .centent{
+      width: 70%;
+      margin-left: 15%;
+      margin-right: 15%;
+      margin-top: 2%;
+
+      background-color: white;
+  }
+  .component{
+      margin-left: 2%;
+      margin-right: 2%;
+      width: 20%;
+
+    display: inline-block;
+  }
+
+  .image{
+    width: 100%;
+    margin-bottom: 20px;
+    
+  }
+  .desc{
+
+    text-align: center;
+    color: black;
+  }
