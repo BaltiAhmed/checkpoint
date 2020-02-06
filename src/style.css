@@ -6,28 +6,69 @@
  
 
   .centent{
-      width: 70%;
-      margin-left: 15%;
-      margin-right: 15%;
-      margin-top: 2%;
-
-      background-color: white;
+      
+      margin-top: 20px;
+      display: block;
+      
   }
-  .component{
+  .Container{
       margin-left: 2%;
-      margin-right: 2%;
-      width: 20%;
+      margin-top: 20px;
+      width: 96%;
+      height: 500px;
+      background-color: black;
+      display: inline-flex;
+      z-index: 1;
 
+      
+  }
+  .Menu{
+    margin-left: 2%;
+    width: 20%;
+    height: 490px;
+    opacity: 0.5;
+    background-color: rgb(238, 230, 230);
     display: inline-block;
+    
+
+
+  }
+  .block{
+
+    margin-left: 2%;
+    width: 74%;
+    height: 490px;
+    opacity: 0.5;
+    background-color: rgb(238, 230, 230);
+    display: inline-block;
+    z-index: 2;
+
+
   }
 
-  .image{
-    width: 100%;
-    margin-bottom: 20px;
-    
-  }
+  .component{
+    margin-top: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 20%;
+
+  display: inline-block;
+}
+
+.image{
+  width: 100%;
+  margin-bottom: 20px;
+  
+}
   .desc{
 
     text-align: center;
     color: black;
+    
+  }
+  .desc1{
+
+    text-align: center;
+    color: black;
+    
   }
