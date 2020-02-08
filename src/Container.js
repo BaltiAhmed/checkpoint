@@ -1,5 +1,7 @@
 import React from 'react';
 import './style.css';
+import photo from './photo1.jpg';
+import Title from './Title';
 import Listcomponent from './Listcomponent';
 import Listcomponent2 from './Listcomponent2';
 function Container() {
@@ -10,6 +12,10 @@ function Container() {
     <div className="Container">
 
       <Listcomponent>
+        
+
+        
+   
 
       </Listcomponent>
       <Listcomponent2>
@@ -18,7 +24,7 @@ function Container() {
 
 
 
-    </div>
+    </div >
 
 
 
